@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plane Shooter</string>
+    <string name="Restart">Restart</string>
+    <string name="Exit">Exit</string>
+</resources>
